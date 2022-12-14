@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/peta-interview-bot/static/css/main.2ad0c90f.css",
-    "main.js": "/peta-interview-bot/static/js/main.00b87877.js",
+    "main.css": "/peta-interview-bot/static/css/main.4baf8932.css",
+    "main.js": "/peta-interview-bot/static/js/main.ed129e0a.js",
     "index.html": "/peta-interview-bot/index.html",
-    "main.2ad0c90f.css.map": "/peta-interview-bot/static/css/main.2ad0c90f.css.map",
-    "main.00b87877.js.map": "/peta-interview-bot/static/js/main.00b87877.js.map"
+    "main.4baf8932.css.map": "/peta-interview-bot/static/css/main.4baf8932.css.map",
+    "main.ed129e0a.js.map": "/peta-interview-bot/static/js/main.ed129e0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ad0c90f.css",
-    "static/js/main.00b87877.js"
+    "static/css/main.4baf8932.css",
+    "static/js/main.ed129e0a.js"
   ]
 }
